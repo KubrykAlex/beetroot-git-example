@@ -1,2 +1,3 @@
-# beetroot-git-example
-Beetroot git example for student
+# homework-module-2
+Module 2
+JS
